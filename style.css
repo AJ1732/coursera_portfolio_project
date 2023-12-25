@@ -17,10 +17,6 @@
   --accent: gray;
 }
 
-/* UTILITIES */
-.inline_padding {
-}
-
 @media only screen and (max-width: 500px) {
   .inline_padding {
     padding-inline: 1rem;
