@@ -57,4 +57,4 @@ Access the website at `http://localhost:<port_number>` (replace `<port_number>` 
 **## Additional Information**
 - **Project Status:** Completed
 - **Collaboration:** Individual project
-- **Links to Live Demo or External Resources:** _pending_
+- **Links to Live Demo or External Resources:** [Mangata & Gallo Website](https://mangata-and-gallo.netlify.app/)
