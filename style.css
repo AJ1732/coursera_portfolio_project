@@ -183,7 +183,7 @@ main section:nth-of-type(2) > h2 {
   }
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 500px) {
   main section:nth-of-type(2) > h2 {
     grid-column: 1/ span 1;
   }
@@ -221,7 +221,7 @@ main section:nth-of-type(3) > div > div {
   }
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 500px) {
   @keyframes left_right {
     from {
       transform: translate3d(140px, 0, 0);
@@ -271,7 +271,7 @@ main section:nth-of-type(4) > h2 {
   }
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 500px) {
   main section:nth-of-type(4) > h2 {
     grid-column: 1/ span 1;
   }
