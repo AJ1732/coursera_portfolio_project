@@ -206,7 +206,7 @@ main section:nth-of-type(3) {
 main section:nth-of-type(3) > div > div {
   width: 1000%;
   height: 100%;
-  background-image: url('./Mangata-and-Gallo-logos/Asset-4@3x.png');
+  background-image: url('https://github.com/AJ1732/coursera_portfolio_project/blob/main/Mangata-and-Gallo-logos/Asset-4@3x.png?raw=true');
   animation: left_right 10s linear 0s infinite alternate;
   background-repeat: no-repeat;
 }
