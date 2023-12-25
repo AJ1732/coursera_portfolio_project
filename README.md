@@ -1,4 +1,7 @@
- **# Portfolio Project: Mangata and Gallo Website**
+ **# Course Portfolio Project: Mangata and Gallo Website**
+
+<img width=“964” alt=“Mangata & Gallo” src=“https://github.com/AJ1732/coursera_portfolio_project/blob/main/Mangata%20and%20Gallo%20logos/Asset%204%403x.png”>
+
 
 **## Overview**
 
@@ -38,10 +41,9 @@ This project serves two primary purposes:
 - **HTML:** Structure and content of the web pages
 - **CSS:** Styling and visual design
 - **JavaScript:** Interactivity and dynamic elements (if applicable)
-- **Additional technologies (if used):**
-    - Frameworks (e.g., Bootstrap)
-    - Content management systems (e.g., WordPress)
+- **Additional technologies :**
     - Version control systems (e.g., Git)
+    - Hosting platforms (e.g., Netlify)
 
 **## Project Setup**
 
@@ -51,17 +53,9 @@ This project serves two primary purposes:
 
 **## Viewing the Website**
 
-Access the website at `http://localhost:<port_number>` (replace `<port_number>` with the appropriate port).
+Access the website at `http://localhost:<port_number>` (replace `<port_number>` with the appropriate port). Or enable live server in IDE
 
 **## Additional Information**
-- **Project Status:** In progress/Completed
-- **Collaboration:** Individual/Team project
+- **Project Status:** Completed
+- **Collaboration:** Individual project
 - **Links to Live Demo or External Resources:** (If applicable)
-
-**## Contributions**
-
-I welcome contributions to this project! Please follow the contribution guidelines outlined in the `CONTRIBUTING.md` file.
-
-**## License**
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
