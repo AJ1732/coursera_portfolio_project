@@ -40,7 +40,6 @@ This project serves two primary purposes:
 
 - **HTML:** Structure and content of the web pages
 - **CSS:** Styling and visual design
-- **JavaScript:** Interactivity and dynamic elements (if applicable)
 - **Additional technologies :**
     - Version control systems (e.g., Git)
     - Hosting platforms (e.g., Netlify)
@@ -58,4 +57,4 @@ Access the website at `http://localhost:<port_number>` (replace `<port_number>` 
 **## Additional Information**
 - **Project Status:** Completed
 - **Collaboration:** Individual project
-- **Links to Live Demo or External Resources:** (If applicable)
+- **Links to Live Demo or External Resources:** _pending_
