@@ -17,12 +17,6 @@
   --accent: gray;
 }
 
-@media only screen and (max-width: 500px) {
-  .inline_padding {
-    padding-inline: 1rem;
-  }
-}
-
 /* GENERAL STYLING */
 body {
   display: grid;
