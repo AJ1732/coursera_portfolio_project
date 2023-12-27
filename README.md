@@ -1,6 +1,6 @@
  **# Course Portfolio Project: Mangata and Gallo Website**
 
-![Mangata & Gallo](https://github.com/AJ1732/coursera_portfolio_project/blob/main/Mangata%20and%20Gallo%20logos/Asset%204@3x.png?raw=true)
+![Mangata & Gallo](https://github.com/AJ1732/coursera_portfolio_project/blob/main/Mangata-and-Gallo-logos/Asset-4@3x.png?raw=true)
 
 
 **## Overview**
