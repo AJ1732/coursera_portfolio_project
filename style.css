@@ -35,17 +35,7 @@ h1:hover, h2:hover, h3:hover {
 }
 
 p {
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  ont-family: var(--inter);
+  font-family: var(--inter);
   font-size: 1.2rem;
 }
 
