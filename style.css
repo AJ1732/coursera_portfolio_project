@@ -22,6 +22,8 @@ body {
   display: grid;
   grid-template-rows: auto 50px 1fr auto;
   gap: 1rem;
+  max-width: 90rem;
+  margin: auto;
 }
 
 h1, h2, h3 {
